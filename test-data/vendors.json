@@ -1,0 +1,15 @@
+{
+    "HappyFlowVendor": {
+        "company-name": "UTD",
+        "contact-name": "123 Main St",
+        "email": "brunofernandes@united.org",
+        "phone-prefix" : "(351)",
+        "phone": "456-7890"
+    },
+    "ErrorStateVendor": {
+        "company-name": "Auto",
+        "contact-name": "",
+        "email": "NotAnEmail",
+        "phone": ""
+    }
+}

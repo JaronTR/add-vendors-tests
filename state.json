@@ -1,0 +1,69 @@
+{
+  "cookies": [
+    {
+      "name": "x-melio-agent-id",
+      "value": "57f4523b-3b19-4482-8bc7-b9cd53e2d9da",
+      "domain": "alpha-app.meliopayments.com",
+      "path": "/",
+      "expires": 1757894680.663651,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "6XyuL3AI7HCwFD_3dczmiX6PvEJeGaRhXT3pesvPHWM-1723334699-1.0.1.1-0mmlQ.nWqsS2AJXHNF0CbfhK4KTyjYy1nUVistRg2j_H9Zw508KQdbFpnWVyvUMXulJvKP6ujGmghc2vTBAf5g",
+      "domain": ".meliopayments.com",
+      "path": "/",
+      "expires": 1723336480.663769,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "qrMUBNfpX8xRF.GsmsDXW77AK6hnSRNcKRr1zrdB8bI-1723334701-1.0.1.1-T.KgAvFeC9_qm1wooZ47V0kP3Q4hUPuBH.YFujB4sKOrst91.0tcAX0XtTbBpPiF3H1JdymaFxC98lWeSDiqAg",
+      "domain": ".meliopayments.com",
+      "path": "/",
+      "expires": 1754870682.406898,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "fWfyxZt3jHOjNmlzzqR5PR80yarHZvgm3asEOMBs5NU-1723334702-1.0.1.1-J0kXLGHFAqg4AqfFeYswHwZ58JmTBjguprraAC.xxDOF6Zh8XtIulFGwnh_LVg8Zo0jS6rUPW77xuIIg2sq7hQ",
+      "domain": ".melio.com",
+      "path": "/",
+      "expires": 1723336482.925498,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "9D7uI2U88sRBWTgO7QpNzvhLpcs09CcpufhikhTPC9E-1723334702118-0.0.1.1-604800000",
+      "domain": ".melio.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://alpha-app.meliopayments.com",
+      "localStorage": [
+        {
+          "name": "ld:608a6c9ebedae00c6063d332:$diagnostics",
+          "value": "{\"dataSinceDate\":1723334682931,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        },
+        {
+          "name": "asyncAnonymousId",
+          "value": "17233346816403872"
+        }
+      ]
+    }
+  ]
+}
